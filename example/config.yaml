@@ -17,4 +17,4 @@ options:
   message: "Hello world..."
 schema:
   message: "str?"
-image: "ghcr.io/joostlek/${arch}-gitea-homeassistant-addon"
+image: "ghcr.io/joostlek/{arch}-gitea-homeassistant-addon"
